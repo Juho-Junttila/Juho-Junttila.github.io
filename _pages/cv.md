@@ -39,11 +39,8 @@ Skills
 
 Papers
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching Experience
 ======
-* Teaching assistant: Macroeconomics 2 (bachelors level)
+* Teaching assistant: Macroeconomics 2 (Bachelor's)
   

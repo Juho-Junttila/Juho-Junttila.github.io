@@ -22,10 +22,10 @@ repository               : "Juho-Junttila/Juho-Junttila.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Juho Junttila"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : # ""
+  location         : # "First year PhD student"
   employer         : "University of Helsinki"
   uri              : # URL
   email            : "juho.junttila@helsinki.fi" 
