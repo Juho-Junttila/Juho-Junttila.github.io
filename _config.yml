@@ -24,8 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Juho Junttila"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : # "First year PhD student"
+  bio              : "First year PhD student"
+  location         : "Finland"
   employer         : "University of Helsinki"
   uri              : # URL
   email            : "juho.junttila@helsinki.fi" 
