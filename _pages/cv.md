@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
-* M.S. in Economics (Research Track), University of Helsinki, 2024
-* B.S. in Economics,  University of Helsinki, 2022
+* MSc. in Economics (Research Track), University of Helsinki, 2024
+* BSc. in Economics,  University of Helsinki, 2022
 
 Work experience
 ======
@@ -22,7 +22,7 @@ Work experience
 
 * Summer 2023: Research Trainee
   * VATT Institute fo Economic Research
-  * Supervisor: Aliisa Koivisto & Annika Nivala
+  * Supervisors: Aliisa Koivisto & Annika Nivala
 
  
 Skills
