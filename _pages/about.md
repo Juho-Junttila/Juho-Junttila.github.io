@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Welcome to my personal website"
+title: "Juho Junttila"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Under construction
+Welcome to my personal webpage! 
