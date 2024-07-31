@@ -31,9 +31,6 @@ Skills
 * Coding: Stata, R, Python
 
 
-Papers
------
-
 Teaching Experience
 -----
 * Teaching assistant: Macroeconomics 2 (Bachelor's)
