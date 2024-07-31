@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-I have been balancing a dual career in economics and competitive sports. During my studies for the basic degree, I competed in diving world championships and european championsips for Finland.
+I have been balancing a dual career in economics and competitive sports. During my studies for the basic degree, I competed in diving world championships and European championships for Finland.
 
-Selected Competitions from Recent years
+Selected Competitions from Recent Years
 ----
 
 1. 1m & 3m springboard, Finnish National Championship 2024
