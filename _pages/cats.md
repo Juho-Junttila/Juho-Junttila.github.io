@@ -2,7 +2,7 @@
 layout: archive
 title: "My Cats"
 permalink: /cats/
-author_profile: false
+author_profile: true
 redirect_from:
   - /cats
 ---
