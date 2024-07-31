@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 
 * MSc. in Economics (Research Track), University of Helsinki, 2024
 * BSc. in Economics,  University of Helsinki, 2022
 
 Work experience
-======
+-----
 * Spring 2024: Research Assistant
   * VATT Institute fo Economic Research
 
@@ -26,7 +26,7 @@ Work experience
 
  
 Skills
-======
+-----
 * Languages
   * Finnish (native)
   * English (fluent)
@@ -38,9 +38,9 @@ Skills
 
 
 Papers
-======
+-----
 
 Teaching Experience
-======
+-----
 * Teaching assistant: Macroeconomics 2 (Bachelor's)
   
