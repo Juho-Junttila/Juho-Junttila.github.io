@@ -209,7 +209,7 @@ collections:
   cats:
     output: true
     permalink: /:collection/:path/
-  talks:
+  sports:
     output: true
     permalink: /:collection/:path/
 
@@ -261,12 +261,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # sports
   - scope:
       path: ""
-      type: talks
+      type: sports
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
