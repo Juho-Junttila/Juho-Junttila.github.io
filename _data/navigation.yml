@@ -10,3 +10,5 @@ main:
   - title: "My Cats"
     url: /cats/
 
+  - title: "Sports Career"
+    url: /sports/
