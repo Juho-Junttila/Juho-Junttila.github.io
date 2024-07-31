@@ -18,23 +18,17 @@ Education
 Work experience
 -----
 * Spring 2024: Research Assistant
-  * VATT Institute fo Economic Research
+  * VATT Institute for Economic Research
 
 * Summer 2023: Research Trainee
-  * VATT Institute fo Economic Research
+  * VATT Institute for Economic Research
   * Supervisors: Aliisa Koivisto & Annika Nivala
 
  
 Skills
 -----
-* Languages
-  * Finnish (native)
-  * English (fluent)
-  * Swedish (B2)
-* Coding
-  * Stata
-  * R
-  * Python
+* Languages: Finnish (native), English (fluent), Swedish (B2)
+* Coding: Stata, R, Python
 
 
 Papers
