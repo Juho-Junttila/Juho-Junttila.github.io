@@ -27,7 +27,7 @@ Work experience
  
 Skills
 -----
-* Languages: Finnish (native), English (fluent), Swedish (B2)
+* Languages: Finnish (native), English (fluent), Swedish (B1)
 * Coding: Stata, R, Python
 
 
