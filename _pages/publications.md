@@ -13,10 +13,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-#  Working Papers
+# Working Papers
 
 
-** Improving VAT Compliance by Switching Who Remits the Tax: Evidence from Construction Firms ** (with Aliisa Koivisto and Annika Nivala). 2024. <br/>
+**Improving VAT Compliance by Switching Who Remits the Tax: Evidence from Construction Firms**  <br/>
+(with Aliisa Koivisto and Annika Nivala)  2024.
 <small>[ <a href="#/" onclick="visib('RCM')">Abstract</a> | [Draft][RCMLINK] ] ]</small>
 
 <div id="RCM" style="display: none; text-align: justify; line-height: 1.2" ><small>
