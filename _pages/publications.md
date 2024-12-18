@@ -18,7 +18,7 @@ This page will have content someday, hopefully.
 
 
 **{Improving VAT Compliance by Switching Who Remits the Tax: Evidence from Construction Firms** (with Aliisa Koivisto and Annika Nivala). 2024. <br/>
-<small>[ <a href="#/" onclick="visib('RCM')">Abstract</a> | [Draft][RCMLINK] ] </small>
+<small>[ <a href="#/" onclick="visib('RCM')">Abstract</a> | [Draft][RCMLINK] ] ]</small>
 
 <div id="RCM" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
