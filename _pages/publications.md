@@ -18,7 +18,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 **Improving VAT Compliance by Switching Who Remits the Tax: Evidence from Construction Firms**  <br/>
 (with Aliisa Koivisto and Annika Nivala)  2024.
-<small>[ <a href="#/" onclick="visib('RCM')">Abstract</a> | [Draft][RCMLINK] ] ]</small>
+<small>[ <a href="#/" onclick="visib('RCM')">Abstract</a> | [Draft][https://urn.fi/URN:NBN:fi-fe20241218104602] ] ]</small>
 
 <div id="RCM" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -27,5 +27,15 @@ Changing who remits a tax can affect how much tax revenue is collected when evas
 [RCMLINK]: https://urn.fi/URN:NBN:fi-fe20241218104602
 
 
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
 
 
