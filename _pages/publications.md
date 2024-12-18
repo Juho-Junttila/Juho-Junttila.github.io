@@ -11,10 +11,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
-This page will have content someday, hopefully.
 
 
-# <center> Working Papers </center>
+#  Working Papers
 
 
 ** Improving VAT Compliance by Switching Who Remits the Tax: Evidence from Construction Firms ** (with Aliisa Koivisto and Annika Nivala). 2024. <br/>
