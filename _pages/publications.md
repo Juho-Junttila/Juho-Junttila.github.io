@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -22,7 +22,7 @@ This page will have content someday, hopefully.
 
 <div id="RCM" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
-Many countries use a reverse charge mechanism (RC) in value added tax (VAT) to combat tax evasion in specific high-risk sectors. The RC shifts the liability to remit VAT from the seller to the buyer. We study the adoption of RC in 2011 in the construction sector in Finland using tax return data on the universe of Finnish firms. Using a difference-in-differences design, we find that reported net VAT liabilities in the construction sector increased by 5\%  compared to unaffected firms. The results show that the remittance policy can be effective in decreasing VAT evasion by subcontractors that provide services for large firms.
+Many countries use a reverse charge mechanism (RC) in value added tax (VAT) to combat tax evasion in specific high-risk sectors. The RC shifts the liability to remit VAT from the seller to the buyer. We study the adoption of RC in 2011 in the construction sector in Finland using tax return data on the universe of Finnish firms. Using a difference-in-differences design, we find that reported net VAT liabilities in the construction sector increased by 5%  compared to unaffected firms. The results show that the remittance policy can be effective in decreasing VAT evasion by subcontractors that provide services for large firms.
 
 [RCMLINK]: https://urn.fi/URN:NBN:fi-fe20241218104602
 
