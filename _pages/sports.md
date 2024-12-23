@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-During my studies, I balanced my career in competitive sports and education in economics, representing Finland in diving at the World and European Championships.
 
+I'm a springboard diver for the Finnish national team. During my studies, I have balanced a dual career in competitive sports and economics, representing Finland at the World and European Championships.
 
 Selected Competitions from Recent Years
 ----
