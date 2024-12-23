@@ -15,6 +15,7 @@ I have been balancing a dual career in economics and competitive sports. During 
 Selected Competitions from Recent Years
 ----
 ~~~
+2. 1m & 3m springboard, Nordic Championship 2024
 1. 1m & 3m springboard, Finnish National Championship 2024
 10. 3m springboard, FISU World University Games 2023
 2. 1m & 3m springboard, Nordic Championship 2023
@@ -26,6 +27,11 @@ Selected Competitions from Recent Years
 20. 1m springboard, LEN European Championship 2021
 ~~~
 
+Sponsors
+----
+
+I am grateful for the continuous support from the City of Vantaa
+
 Other Awards
 ----
 
@@ -33,10 +39,6 @@ Other Awards
 * Diver of the year 2021 (Finnish Sports Journalists)
 * URA-foundation study grants for a dual career: 2019,2020,2021,2022,2023
 
-Sponsors
-----
-
-I am grateful for the continuous support from City of Vantaa
 
 
 Work Experience
