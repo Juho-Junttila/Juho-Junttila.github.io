@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+During my studies, I balanced my career in competitive sports and education in economics, representing Finland in diving at the World and European Championships.
 
-I have been balancing a dual career in economics and competitive sports. During my studies for the basic degree, I competed in diving World Championships and European championships for Finland.
 
 Selected Competitions from Recent Years
 ----
