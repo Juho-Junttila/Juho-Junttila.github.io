@@ -15,6 +15,7 @@ I'm a springboard diver for the Finnish national team. During my studies, I have
 Selected Competitions from Recent Years
 ----
 ~~~
+1. 1m & 3m springboard, Finnish National Championship 2025
 2. 1m & 3m springboard, Nordic Championship 2024
 1. 1m & 3m springboard, Finnish National Championship 2024
 10. 3m springboard, FISU World University Games 2023
