@@ -24,6 +24,11 @@ Work experience
   * VATT Institute for Economic Research
   * Supervisors: Aliisa Koivisto & Annika Nivala
 
+Presentations
+----- 
+* 2025 The 45th Annual Meeting of the Finnish Economic Association
+* 2024 Helsinki GSE Labor & Public Economics PhD Seminar
+
  
 Skills
 -----
@@ -33,5 +38,6 @@ Skills
 
 Teaching Experience
 -----
-* Teaching assistant: Macroeconomics 2 (Bachelor's)
-  
+* Teaching assistant: Macroeconomics 2 (Bachelor's) 2024 & 2025
+
+
