@@ -15,6 +15,7 @@ I'm a springboard diver for the Finnish national team. During my studies, I have
 Selected Competitions from Recent Years
 ----
 ~~~
+12. 3m springboard, European Aquatics Diving Championships 2025
 1. 1m & 3m springboard, Finnish National Championship 2025
 2. 1m & 3m springboard, Nordic Championship 2024
 1. 1m & 3m springboard, Finnish National Championship 2024
@@ -25,7 +26,7 @@ Selected Competitions from Recent Years
 1. 1m & 3m springboard, Finnish National Championship 2023
 19. 3m springboard, LEN European Championship 2022
 1. 1m & 3m springboard, Finnish National Championship 2021
-20. 1m springboard, LEN European Championship 2021
+20. 1m springboard, LEN European Diving Championships 2021
 ~~~
 
 Sponsors
