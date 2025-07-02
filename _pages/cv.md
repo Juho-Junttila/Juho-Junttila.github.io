@@ -26,6 +26,7 @@ Work experience
 
 Presentations
 ----- 
+* 2025 The 41st Summer Seminar of Finnish Economists 2025
 * 2025 The 45th Annual Meeting of the Finnish Economic Association
 * 2024 Helsinki GSE Labor & Public Economics PhD Seminar
 
