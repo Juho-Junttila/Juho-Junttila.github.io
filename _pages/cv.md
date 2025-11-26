@@ -26,6 +26,8 @@ Work experience
 
 Presentations
 ----- 
+* 2025 Helsinki GSE Labor & Public Economics PhD Seminar
+* EDUCA Summer School 2025
 * 2025 The 41st Summer Seminar of Finnish Economists 2025
 * 2025 The 45th Annual Meeting of the Finnish Economic Association
 * 2024 Helsinki GSE Labor & Public Economics PhD Seminar
@@ -41,4 +43,6 @@ Teaching Experience
 -----
 * Teaching assistant: Macroeconomics 2 (Bachelor's) 2024 & 2025
 
-
+Service
+-----
+* Host for Helsinki GSE Labor & Public Economics PhD Seminar with Lachlan Paterson (Fall 2025 - )
