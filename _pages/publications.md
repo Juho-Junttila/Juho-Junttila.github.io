@@ -17,7 +17,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 **Improving VAT Compliance by Switching Who Remits the Tax: Evidence from Construction Firms**  <br/>
-(with Aliisa Koivisto and Annika Nivala)  2024.
+(with Aliisa Koivisto and Annika Nivala)
 <small>[ <a href="#/" onclick="visib('RCM')">Abstract</a> | [Working Paper][RCMLINK] ]</small>
 
 <div id="RCM" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -52,5 +52,4 @@ This study examines the short-term effects of Finland’s 2021 reform, which ext
 [PAPCSL]: https://osf.io/qyfrz
 [CSLLINK]: https://www.helsinkigse.fi/discussion-papers/discussion-paper-50
 
-# Work in Progress
 
