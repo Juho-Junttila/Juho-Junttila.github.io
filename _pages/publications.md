@@ -38,11 +38,10 @@ Changing who remits a tax can affect how much tax revenue is collected when evas
 }
 </script>
 
-# Work in Progress
+
 
 **Compulsory Schooling in the 21st Century: Short-Term Effects of Finland’s 2020 Act on Compulsory Education** <br/>
-(Working title)
-<small>[  <a href="#/" onclick="visib('CSL')">Abstract</a> [Pre-analysis Plan][PAPCSL]  | [Working Paper][CSLLINK]]</small>
+<small>[ <a href="#/" onclick="visib('CSL')">Abstract</a> | [Pre-analysis Plan][PAPCSL]  | [Working Paper][CSLLINK]]</small>
 
 <div id="CSL" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -53,5 +52,5 @@ This study examines the short-term effects of Finland’s 2021 reform, which ext
 [PAPCSL]: https://osf.io/qyfrz
 [CSLLINK]: https://www.helsinkigse.fi/discussion-papers/discussion-paper-50
 
-
+# Work in Progress
 
