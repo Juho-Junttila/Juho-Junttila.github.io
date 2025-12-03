@@ -47,7 +47,7 @@ Changing who remits a tax can affect how much tax revenue is collected when evas
 
 
 [PAPCSL]: https://osf.io/qyfrz
-[CSLLINK]: https://urn.fi/URN:NBN:fi-fe20241218104602](https://www.helsinkigse.fi/discussion-papers/discussion-paper-50
+[CSLLINK]: https://www.helsinkigse.fi/discussion-papers/discussion-paper-50
 
 
 
