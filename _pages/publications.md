@@ -42,9 +42,13 @@ Changing who remits a tax can affect how much tax revenue is collected when evas
 
 **Compulsory Schooling in the 21st Century: Short-Term Effects of Finland’s 2020 Act on Compulsory Education** <br/>
 (Working title)
-<small>[ [Pre-analysis Plan][PAPCSL]  | [Working Paper][CSLLINK]]</small>
+<small>[  <a href="#/" onclick="visib('CSL')">Abstract</a> [Pre-analysis Plan][PAPCSL]  | [Working Paper][CSLLINK]]</small>
 
+<div id="CSL" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
+This study examines the short-term effects of Finland’s 2021 reform, which extended compulsory schooling to age 18. Using detailed administrative data, I analyze changes in educational outcomes and early labor market outcomes following the reform. The reform is associated with a 20% reduction in dropout rates between ages 15 and 18, with a sharp and temporary increase in dropout rates once the law no longer binds. On average, students in the first affected cohorts are 1.9% (1.5 percentage points) more likely to graduate from secondary school by the age of 20 and complete 1.2 percentage points more courses relative to pre-reform cohorts. Time spent outside of education, employment, or training is reduced by 0.38 months on average, while annual earnings decrease by 86 euros. Heterogeneity analyses indicate relatively stronger responses among students from low-SES and foreign backgrounds and among males.
+
+</small><br><br/></div>
 
 [PAPCSL]: https://osf.io/qyfrz
 [CSLLINK]: https://www.helsinkigse.fi/discussion-papers/discussion-paper-50
