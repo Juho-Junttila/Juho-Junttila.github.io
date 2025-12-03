@@ -40,9 +40,9 @@ Changing who remits a tax can affect how much tax revenue is collected when evas
 
 # Work in Progress
 
-**The Anatomy of A Compulsory Schooling Law: Short term effects of Finland’s 2020 Act on Compulsory Education** <br/>
+**Compulsory Schooling in the 21st Century: Short-Term Effects of Finland’s 2020 Act on Compulsory Education** <br/>
 (Working title)
-<small>[ [Pre-analysis Plan][PAPCSL]  | [Working Paper][CSLLINK]]]</small>
+<small>[ [Pre-analysis Plan][PAPCSL]  | [Working Paper][CSLLINK]]</small>
 
 
 
