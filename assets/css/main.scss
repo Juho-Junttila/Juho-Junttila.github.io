@@ -34,6 +34,10 @@
 @import "archive";
 @import "sidebar";
 
+.page__footer .footer-links {
+  display: none;
+}
+
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
@@ -45,11 +49,3 @@
 }
 
 
-.page__footer {
-  padding: 0.5em 0;
-  font-size: 0.85em;
-}
-
-.page__footer a {
-  font-size: 0.85em;
-}
