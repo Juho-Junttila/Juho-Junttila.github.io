@@ -41,6 +41,5 @@
 @import "print";
 
 .author__avatar img {
-  border-radius: 8px;
+  border-radius: 0 !important;   /* removes round shape */
 }
-
