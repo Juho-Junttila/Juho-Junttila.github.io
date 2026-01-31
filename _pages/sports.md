@@ -14,20 +14,17 @@ I'm a former Finnish national team springboard diver. During my studies, I balan
 
 Selected Competitions from Recent Years
 ----
-~~~
-12. 3m springboard, European Aquatics Diving Championships 2025
-1. 1m & 3m springboard, Finnish National Championship 2025
-2. 1m & 3m springboard, Nordic Championship 2024
-1. 1m & 3m springboard, Finnish National Championship 2024
-10. 3m springboard, FISU World University Games 2023
-2. 1m & 3m springboard, Nordic Championship 2023
-1. 1m & 3m springboard, Finnish National Championship 2023
-39. 1m springboard, FINA World Championship 2022
-1. 1m & 3m springboard, Finnish National Championship 2023
-19. 3m springboard, LEN European Championship 2022
-1. 1m & 3m springboard, Finnish National Championship 2021
-20. 1m springboard, LEN European Diving Championships 2021
-~~~
+* 12th, 3m springboard, European Aquatics Diving Championships 2025
+* 1st, 1m & 3m springboard, Finnish National Championship 2025
+* 2nd, 1m & 3m springboard, Nordic Championship 2024
+* 1st, 1m & 3m springboard, Finnish National Championship 2024
+* 10th, 3m springboard, FISU World University Games 2023
+* 2nd, 1m & 3m springboard, Nordic Championship 2023
+* 1st, 1m & 3m springboard, Finnish National Championship 2023
+* 39th, 1m springboard, FINA World Championship 2022
+* 19th, 3m springboard, LEN European Championship 2022
+* 1st, 1m & 3m springboard, Finnish National Championship 2021
+* 20th, 1m springboard, LEN European Diving Championships 2021
 
 Sponsors
 ----
@@ -36,7 +33,7 @@ I am grateful for the continuous support from the City of Vantaa
 
 Other Awards
 ----
-
+* Diver of the year 2025 (Finnish Sports Journalists)
 * Diver of the year 2023 (Finnish Swimming Federation)
 * Diver of the year 2021 (Finnish Sports Journalists)
 * URA-foundation study grants for a dual career: 2019,2020,2021,2022,2023

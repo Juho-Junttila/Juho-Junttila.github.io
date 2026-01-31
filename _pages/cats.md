@@ -41,6 +41,17 @@ redirect_from:
   transform: scale(1.05);
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
+
+/* Mobile responsive: 1 column on small screens */
+@media (max-width: 768px) {
+  .cat-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .cat-gallery img {
+    height: 300px;
+  }
+}
 </style>
 
 <div class="cat-page-container">
