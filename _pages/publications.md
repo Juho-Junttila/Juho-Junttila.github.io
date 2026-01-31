@@ -24,12 +24,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # Working Papers
 
 <style>
+.paper-item {
+  margin-bottom: 30px;
+}
+
 .paper-title {
   font-weight: bold;
   font-size: 1.1em;
   cursor: pointer;
   color: #494e52;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 .paper-title:hover {
