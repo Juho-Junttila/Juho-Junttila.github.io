@@ -1,48 +1,42 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<style>
+.pdf-container {
+  width: 100%;
+  height: 100vh;
+  min-height: 800px;
+  margin-top: 20px;
+}
 
-Education
------
+.pdf-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
 
-* MSc. in Economics (Research Track), University of Helsinki, 2024
-* BSc. in Economics,  University of Helsinki, 2022
+.pdf-download {
+  text-align: center;
+  margin: 20px 0;
+}
 
-Work experience
------
-* Spring 2024: Research Assistant
-  * VATT Institute for Economic Research
+.pdf-download a {
+  font-size: 1.1em;
+}
+</style>
 
-* Summer 2023: Research Trainee
-  * VATT Institute for Economic Research
-  * Supervisors: Aliisa Koivisto & Annika Nivala
+<div class="pdf-download">
+  <a href="/files/CV.pdf" target="_blank">CV (Last updated 31.1.2026) </a>
+</div>
 
-Presentations
------ 
-* 2025 Helsinki GSE Labor & Public Economics PhD Seminar
-* EDUCA Summer School 2025
-* 2025 The 41st Summer Seminar of Finnish Economists 2025
-* 2025 The 45th Annual Meeting of the Finnish Economic Association
-* 2024 Helsinki GSE Labor & Public Economics PhD Seminar
-
- 
-Skills
------
-* Languages: Finnish (native), English (fluent), Swedish (B1)
-* Coding: Stata, R, Python
-
-
-Teaching Experience
------
-* Teaching assistant: Macroeconomics 2 (Bachelor's) 2024 & 2025
-
-Service
------
-* Host for Helsinki GSE Labor & Public Economics PhD Seminar with Lachlan Paterson (Fall 2025 - )
+<div class="pdf-container">
+  <iframe src="/files/CV.pdf" type="application/pdf">
+    <p>Your browser does not support PDFs. Please <a href="/files/CV.pdf">download the PDF</a> to view it.</p>
+  </iframe>
+</div>
