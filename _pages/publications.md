@@ -64,7 +64,7 @@ author_profile: true
 
   <div id="RCM" style="display: none;" class="paper-details">
     <div class="paper-links">
-      <a href="https://urn.fi/URN:NBN:fi-fe20241218104602" target="_blank"><strong>Working Paper</strong></a>
+      <a href="https://urn.fi/URN:NBN:fi-fe20241218104602](https://verotutkimus.fi/verotutkimus/wp-content/uploads/2026/02/FIT-WP43-Junttila-Koivisto-Nivala-090226.pdf)" target="_blank"><strong>Working Paper</strong></a>
     </div>
 
     <div class="paper-abstract">
