@@ -94,7 +94,7 @@ author_profile: true
 
   <div id="CSL" style="display: none;" class="paper-details">
     <div class="paper-links">
-      <a href="https://www.helsinkigse.fi/discussion-papers/discussion-paper-50" target="_blank"><strong>Working Paper</strong></a>
+      <a href="https://www.helsinkigse.fi/media/pages/discussion-papers/discussion-paper-50/c5b0fd436a-1764677074/dp50.pdf" target="_blank"><strong>Working Paper</strong></a>
       <a href="https://osf.io/qyfrz" target="_blank"><strong>Pre-analysis Plan</strong></a>
       <a href="https://www.doria.fi/handle/10024/193573" target="_blank"><strong>Policy Report (in Finnish)</strong></a>
     </div>
