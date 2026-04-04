@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Juho Junttila"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
@@ -11,7 +11,9 @@ fi_url: /fi/
 
 Welcome to my personal webpage!
 
-I'm a PhD student at the University of Helsinki. My primary research interests are in labor economics, focusing on the economics of education. I have also worked on tax compliance.
+I'm a PhD student at the University of Helsinki. My primary research interests are in labor economics, focusing on the economics of education. I also work on tax compliance.
+
+My research is part of the [Education for the Future Flagship (EDUCA)](https://educaflagship.fi/en).
 
 
 My research is part of the [Education for the Future Flagship (EDUCA)](https://educaflagship.fi/en).

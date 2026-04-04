@@ -66,7 +66,7 @@ fi_url: /fi/publications/
 
   <div id="RCM" style="display: none;" class="paper-details">
     <div class="paper-links">
-      <a href="https://urn.fi/URN:NBN:fi-fe20241218104602" target="_blank"><strong>Working Paper</strong></a>
+      <a href="https://verotutkimus.fi/verotutkimus/wp-content/uploads/2026/02/FIT-WP43-Junttila-Koivisto-Nivala-090226.pdf" target="_blank"><strong>Working Paper</strong></a>
     </div>
 
     <div class="paper-abstract">
@@ -96,7 +96,7 @@ fi_url: /fi/publications/
 
   <div id="CSL" style="display: none;" class="paper-details">
     <div class="paper-links">
-      <a href="https://www.helsinkigse.fi/discussion-papers/discussion-paper-50" target="_blank"><strong>Working Paper</strong></a>
+      <a href="https://www.helsinkigse.fi/media/pages/discussion-papers/discussion-paper-50/c5b0fd436a-1764677074/dp50.pdf" target="_blank"><strong>Working Paper</strong></a>
       <a href="https://osf.io/qyfrz" target="_blank"><strong>Pre-analysis Plan</strong></a>
       <a href="https://www.doria.fi/handle/10024/193573" target="_blank"><strong>Policy Report (in Finnish)</strong></a>
     </div>
