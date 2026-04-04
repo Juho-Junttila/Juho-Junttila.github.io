@@ -1,16 +1,15 @@
 ---
 layout: archive
 title: ""
-permalink: /publications/
+permalink: /fi/publications/
 author_profile: true
-lang: en
-fi_url: /fi/publications/
+lang: fi
+en_url: /publications/
 ---
 
 
 
-
-# Working Papers
+# Työpapereita
 
 <style>
 .paper-item {
@@ -66,7 +65,7 @@ fi_url: /fi/publications/
 
   <div id="RCM" style="display: none;" class="paper-details">
     <div class="paper-links">
-      <a href="https://urn.fi/URN:NBN:fi-fe20241218104602" target="_blank"><strong>Working Paper</strong></a>
+      <a href="https://urn.fi/URN:NBN:fi-fe20241218104602" target="_blank"><strong>[Työpaperi (englanniksi)] </strong></a>
     </div>
 
     <div class="paper-abstract">
@@ -96,13 +95,13 @@ fi_url: /fi/publications/
 
   <div id="CSL" style="display: none;" class="paper-details">
     <div class="paper-links">
-      <a href="https://www.helsinkigse.fi/discussion-papers/discussion-paper-50" target="_blank"><strong>Working Paper</strong></a>
-      <a href="https://osf.io/qyfrz" target="_blank"><strong>Pre-analysis Plan</strong></a>
-      <a href="https://www.doria.fi/handle/10024/193573" target="_blank"><strong>Policy Report (in Finnish)</strong></a>
+      <a href="https://www.helsinkigse.fi/discussion-papers/discussion-paper-50" target="_blank"><strong>[Työpaperi (englanniksi)]</strong></a>
+      <a href="https://osf.io/qyfrz" target="_blank"><strong>[Analyysisuunnitelma (ennen aineistonkeruuta)]</strong></a>
+      <a href="https://www.doria.fi/handle/10024/193573" target="_blank"><strong>[Raportti]</strong></a>
     </div>
 
     <div class="paper-links">
-      <em>In the media (in Finnish):</em>
+      <em>[Mediassa]:</em>
       <a href="https://www.hs.fi/politiikka/art-2000011662855.html" target="_blank">Helsingin Sanomat</a>
       <a href="https://yle.fi/a/74-20197188" target="_blank">Yle</a>
     </div>
@@ -112,4 +111,3 @@ fi_url: /fi/publications/
     </div>
   </div>
 </div>
-

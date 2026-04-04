@@ -3,6 +3,8 @@ layout: archive
 title: "Diving Career"
 permalink: /sports/
 author_profile: true
+lang: en
+fi_url: /fi/sports/
 redirect_from:
   - /sports
 ---

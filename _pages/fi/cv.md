@@ -1,12 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /fi/cv/
 author_profile: true
-lang: en
-fi_url: /fi/cv/
-redirect_from:
-  - /resume
+lang: fi
+en_url: /cv/
 ---
 
 <style>
@@ -39,6 +37,6 @@ redirect_from:
 
 <div class="pdf-container">
   <iframe src="/files/CV.pdf" type="application/pdf">
-    <p>Your browser does not support PDFs. Please <a href="/files/CV.pdf">download the PDF</a> to view it.</p>
+    <p>[insert finnish here] <a href="/files/CV.pdf">[insert finnish here]</a></p>
   </iframe>
 </div>

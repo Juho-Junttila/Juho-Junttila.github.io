@@ -1,12 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /cats/
+permalink: /fi/cats/
 author_profile: false
-lang: en
-fi_url: /fi/cats/
-redirect_from:
-  - /cats
+lang: fi
+en_url: /cats/
 ---
 
 <style>
@@ -58,18 +56,11 @@ redirect_from:
 
 <div class="cat-page-container">
   <div class="cat-gallery">
-  <img src='/images/kissat1.jpeg' alt='Cat photo 1'>
-  <img src='/images/kissat2.jpeg' alt='Cat photo 2'>
-  <img src='/images/kissat4.jpeg' alt='Cat photo 4'>
-  <img src='/images/kissat5.JPG' alt='Cat photo 5'>
-  <img src='/images/kissat6.jpeg' alt='Cat photo 6'>
-  <img src='/images/kissat7.jpeg' alt='Cat photo 7'>
+  <img src='/images/kissat1.jpeg' alt='Kissokuva 1'>
+  <img src='/images/kissat2.jpeg' alt='Kissokuva 2'>
+  <img src='/images/kissat4.jpeg' alt='Kissokuva 4'>
+  <img src='/images/kissat5.JPG' alt='Kissokuva 5'>
+  <img src='/images/kissat6.jpeg' alt='Kissokuva 6'>
+  <img src='/images/kissat7.jpeg' alt='Kissokuva 7'>
   </div>
 </div>
-
-<!--
-To add new cat photos:
-1. Add your image to the /images/ folder
-2. Copy one of the lines above and update the filename:
-   <img src='/images/your-new-photo.jpg' alt='Description'>
--->

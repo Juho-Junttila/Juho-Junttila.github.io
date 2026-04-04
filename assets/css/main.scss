@@ -48,4 +48,32 @@
   border-radius: 0 !important;   /* removes round shape */
 }
 
+.masthead__inner-wrap {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.masthead__menu {
+  flex: 1;
+  min-width: 0;
+}
+
+.lang-toggle {
+  flex-shrink: 0;
+  padding-left: 1em;
+
+  a {
+    font-family: $sans-serif-narrow;
+    font-size: 0.8em;
+    color: $masthead-link-color;
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
+  }
+}
+
 

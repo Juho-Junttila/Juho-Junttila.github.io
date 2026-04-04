@@ -12,3 +12,17 @@ main:
 
   - title: "Sports Career"
     url: /sports/
+
+fi:
+
+  - title: "Tutkimus"
+    url: /fi/publications/
+
+  - title: "CV"
+    url: /fi/cv/
+
+  - title: "Kissat"
+    url: /fi/cats/
+
+  - title: "Urheilu"
+    url: /fi/sports/

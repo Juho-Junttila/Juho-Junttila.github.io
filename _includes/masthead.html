@@ -1,5 +1,11 @@
 {% include base_path %}
 
+{% if page.lang == 'fi' %}
+  {% assign nav_links = site.data.navigation.fi %}
+{% else %}
+  {% assign nav_links = site.data.navigation.main %}
+{% endif %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -7,7 +13,7 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          {% for link in nav_links %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
@@ -18,6 +24,13 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+    </div>
+    <div class="lang-toggle">
+      {% if page.lang == 'fi' %}
+        <a href="{{ page.en_url }}">🌐 In English</a>
+      {% elsif page.fi_url %}
+        <a href="{{ page.fi_url }}">🌐 Suomeksi</a>
+      {% endif %}
     </div>
   </div>
 </div>
