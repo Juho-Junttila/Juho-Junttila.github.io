@@ -1,6 +1,6 @@
 ---
 permalink: /fi/
-title: "Juho Junttila"
+title: " "
 author_profile: true
 lang: fi
 en_url: /
