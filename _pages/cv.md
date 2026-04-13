@@ -34,7 +34,7 @@ redirect_from:
 </style>
 
 <div class="pdf-download">
-  <a href="/files/CV.pdf" target="_blank">CV (Last updated 31.1.2026) </a>
+  <a href="/files/CV.pdf" target="_blank">CV (Last updated 13.4.2026) </a>
 </div>
 
 <div class="pdf-container">
