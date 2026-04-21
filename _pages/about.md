@@ -13,7 +13,7 @@ Welcome to my personal webpage!
 
 I'm a PhD student at the University of Helsinki. My primary research interests are in labor economics, focusing on the economics of education. I also work on tax compliance.
 
-My research is part of the [Education for the Future Flagship (EDUCA)](https://educaflagship.fi/en) and affiliated with [Finnish Centre of Excellence in Tax Systems Research (FIT)](https://verotutkimus.fi/en/home/).
+My research is part of the [Education for the Future Flagship (EDUCA)](https://educaflagship.fi/en) and I am affiliated with [Finnish Centre of Excellence in Tax Systems Research (FIT)](https://verotutkimus.fi/en/home/).
 
 
 
