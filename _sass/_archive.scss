@@ -3,22 +3,33 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: 0;
+  float: none;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
 
   @include breakpoint($medium) {
-    @include span(12 of 12);
+    float: none;
+    width: 100%;
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $accent;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: $accent-hov;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);

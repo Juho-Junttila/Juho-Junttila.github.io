@@ -1,7 +1,8 @@
 ---
+layout: archive
 permalink: /
 title: ""
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
@@ -9,18 +10,18 @@ lang: en
 fi_url: /fi/
 ---
 
-Welcome to my personal webpage!
-
-I'm a PhD student at the University of Helsinki. My primary research interests are in labor economics, focusing on the economics of education. I also work on tax compliance.
-
-My research is part of the [Education for the Future Flagship (EDUCA)](https://educaflagship.fi/en) and I am affiliated with [Finnish Centre of Excellence in Tax Systems Research (FIT)](https://verotutkimus.fi/en/home/).
-
-
-
-<!--
-## Latest from Bluesky
-
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:ej3bmzt7w7gxekjfyzhqmssd/app.bsky.feed.post/3m72yftgxr22q" data-bluesky-cid="bafyreigsqq7n266j6vm5gpftjzoxu4gftjsfh4mj5xdwnqcslcqyelhy2q" data-bluesky-embed-color-mode="system"><p lang="en">Oppivelvollisuusiän korotus vähensi koulutuksen keskeyttämistä — etenkin alaikäisenä . Työpaperissani selvitetään lain seurauksia toiselta asteelta valmistuneiden osuuksiin, kurssisuorituksiin, työn ja koulutuksen ulkopuolella vietettyyn aikaan sekä tuloihin.
-
-www.helsinkigse.fi/discussion-p...<br><br><a href="https://bsky.app/profile/did:plc:ej3bmzt7w7gxekjfyzhqmssd/post/3m72yftgxr22q?ref_src=embed">[image or embed]</a></p>&mdash; Juho Junttila (<a href="https://bsky.app/profile/did:plc:ej3bmzt7w7gxekjfyzhqmssd?ref_src=embed">@juhojunttila.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:ej3bmzt7w7gxekjfyzhqmssd/post/3m72yftgxr22q?ref_src=embed">3. joulukuuta 2025 klo 9.59</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
--->
+<div style="display:flex;gap:clamp(32px,5vw,56px);align-items:flex-start;flex-wrap:wrap;">
+  <div style="flex-shrink:0;width:clamp(160px,22vw,210px);">
+    <img src="/images/IMG_6490%202.JPG" alt="Juho Junttila" style="width:100%;aspect-ratio:3/4;object-fit:cover;object-position:center;border-radius:1px;display:block;box-shadow:0 2px 20px rgba(0,0,0,0.09);">
+  </div>
+  <div style="flex:1 1 320px;padding-top:4px;">
+    <p style="font-size:16px;line-height:1.78;color:oklch(44% 0.01 75);margin-bottom:10px;max-width:440px;font-style:italic;overflow-wrap:break-word;">Welcome to my personal webpage!</p>
+    <p style="font-size:15.5px;line-height:1.78;color:oklch(44% 0.01 75);margin-bottom:14px;max-width:440px;overflow-wrap:break-word;">I'm a PhD student at the University of Helsinki. My primary research interests are in labor economics, focusing on the economics of education. I also work on tax compliance.</p>
+    <p style="font-size:14.5px;line-height:1.74;color:oklch(62% 0.01 75);margin-bottom:28px;max-width:440px;overflow-wrap:break-word;">My research is part of the Education for the Future Flagship (EDUCA) and I am affiliated with Finnish Centre of Excellence in Tax Systems Research (FIT).</p>
+    <div style="display:flex;gap:20px;flex-wrap:wrap;">
+      <a href="https://bsky.app/profile/juhojunttila.bsky.social" target="_blank" rel="noopener" style="font-size:13px;color:oklch(52% 0.13 198);font-weight:500;letter-spacing:0.02em;text-decoration:none;border-bottom:1px solid rgba(42,143,168,0.27);padding-bottom:1px;">Bluesky</a>
+      <a href="https://github.com/Juho-Junttila" target="_blank" rel="noopener" style="font-size:13px;color:oklch(52% 0.13 198);font-weight:500;letter-spacing:0.02em;text-decoration:none;border-bottom:1px solid rgba(42,143,168,0.27);padding-bottom:1px;">GitHub</a>
+      <a href="https://scholar.google.com/citations?user=gIeIeCUAAAAJ&hl=en" target="_blank" rel="noopener" style="font-size:13px;color:oklch(52% 0.13 198);font-weight:500;letter-spacing:0.02em;text-decoration:none;border-bottom:1px solid rgba(42,143,168,0.27);padding-bottom:1px;">Google Scholar</a>
+    </div>
+  </div>
+</div>

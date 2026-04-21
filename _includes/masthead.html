@@ -2,35 +2,52 @@
 
 {% if page.lang == 'fi' %}
   {% assign nav_links = site.data.navigation.fi %}
+  {% assign other_lang_url = page.en_url %}
+  {% assign active_lang = 'fi' %}
 {% else %}
   {% assign nav_links = site.data.navigation.main %}
+  {% assign other_lang_url = page.fi_url %}
+  {% assign active_lang = 'en' %}
 {% endif %}
 
-<div class="masthead">
-  <div class="masthead__inner-wrap" style="display:flex;align-items:center;">
-    <div class="masthead__menu" style="flex:1;min-width:0;">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in nav_links %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-    <div class="lang-toggle">
-      {% if page.lang == 'fi' %}
-        <a href="{{ page.en_url }}">🌐 In English</a>
-      {% elsif page.fi_url %}
-        <a href="{{ page.fi_url }}">🌐 Suomeksi</a>
+<header class="masthead" id="site-masthead" role="banner">
+  <a href="{{ base_path }}/" class="site-title">Juho Junttila</a>
+
+  <nav class="masthead__nav" role="navigation" aria-label="Main navigation">
+    {% for link in nav_links %}
+      {% if link.url contains 'http' %}
+        {% assign link_url = link.url %}
+      {% else %}
+        {% assign link_url = base_path | append: link.url %}
+      {% endif %}
+      {% if page.url == link.url %}
+        <a href="{{ link_url }}" class="masthead__nav-link active" aria-current="page">{{ link.title }}</a>
+      {% else %}
+        <a href="{{ link_url }}" class="masthead__nav-link">{{ link.title }}</a>
+      {% endif %}
+    {% endfor %}
+
+    <div class="lang-toggle" aria-label="Language toggle">
+      {% if active_lang == 'en' %}
+        <span class="lang-toggle__item active">EN</span>
+        <span class="lang-toggle__sep">/</span>
+        <a href="{{ other_lang_url | default: '/fi/' }}" class="lang-toggle__item">FI</a>
+      {% else %}
+        <a href="{{ other_lang_url | default: '/' }}" class="lang-toggle__item">EN</a>
+        <span class="lang-toggle__sep">/</span>
+        <span class="lang-toggle__item active">FI</span>
       {% endif %}
     </div>
-  </div>
-</div>
+  </nav>
+</header>
+
+<script>
+(function() {
+  var nav = document.getElementById('site-masthead');
+  function onScroll() {
+    nav.classList.toggle('scrolled', window.scrollY > 8);
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+})();
+</script>

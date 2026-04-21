@@ -399,3 +399,65 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* ==========================================================================
+   Design System Layout Overrides
+   ========================================================================== */
+
+#main {
+  max-width: 820px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding-left: clamp(24px, 5vw, 48px);
+  padding-right: clamp(24px, 5vw, 48px);
+  padding-top: clamp(40px, 6vw, 72px);
+  padding-bottom: clamp(40px, 6vw, 72px);
+  float: none;
+  width: auto;
+
+  @include breakpoint($x-large) {
+    max-width: 820px;
+  }
+}
+
+.page {
+  float: none;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+
+  @include breakpoint($large) {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* Hide auto-generated page title (we provide headings inline) */
+.archive .page__title {
+  display: none;
+}
+
+/* Content link styles */
+.page__content a,
+.archive a {
+  color: $accent;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(42, 143, 168, 0.27);
+
+  &:hover {
+    color: $accent-hov;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: $accent;
+  }
+}

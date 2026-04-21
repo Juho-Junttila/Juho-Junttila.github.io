@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : "Cormorant Garamond", Georgia, Times, serif;
+$sans-serif                 : "DM Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -43,7 +43,7 @@ $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
 /* masthead properties */
-$masthead-height            : 70px;
+$masthead-height            : 180px;
 
 /* Sidebar properties */
 $sidebar-screen-min-width   : 1024px;
@@ -101,12 +101,23 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
+/* design system tokens */
+$bg                         : oklch(97.2% 0.012 78);
+$bg-mid                     : oklch(94.5% 0.013 78);
+$bg-deep                    : oklch(91.5% 0.016 78);
+$text-main                  : oklch(22% 0.01 75);
+$text-mid                   : oklch(44% 0.01 75);
+$text-light                 : oklch(62% 0.01 75);
+$accent                     : oklch(52% 0.13 198);
+$accent-hov                 : oklch(44% 0.13 198);
+$border                     : oklch(88% 0.012 78);
+
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : $accent;
+$link-color-hover           : $accent-hov;
+$link-color-visited         : $accent;
+$masthead-link-color        : $text-light;
+$masthead-link-color-hover  : $accent;
 
 
 /*
