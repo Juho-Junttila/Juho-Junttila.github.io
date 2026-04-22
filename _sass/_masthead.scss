@@ -116,3 +116,110 @@
     &:visited { color: $text-main; }
   }
 }
+
+/* Hamburger button — hidden on desktop */
+.nav-toggle {
+  display: none;
+}
+
+/* ==========================================================================
+   MOBILE NAV  (< 680px)
+   ========================================================================== */
+
+@media (max-width: 680px) {
+
+  body {
+    padding-top: 64px;
+  }
+
+  .masthead {
+    height: 64px;
+    justify-content: space-between;
+    gap: 0;
+    padding: 0 20px;
+  }
+
+  .site-title {
+    font-size: 22px;
+  }
+
+  /* Panel: slides down from below the masthead */
+  .masthead__nav {
+    position: absolute;
+    top: 64px;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    background: $bg;
+    border-bottom: 1px solid $border;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 24px 20px;
+    gap: 0;
+
+    /* Collapsed state */
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition: max-height 0.28s ease, opacity 0.2s ease;
+
+    &.is-open {
+      max-height: 520px;
+      opacity: 1;
+      pointer-events: auto;
+    }
+  }
+
+  .masthead__nav-link {
+    display: block;
+    width: 100%;
+    padding: 13px 0;
+    border-bottom: 1px solid $border;
+    border-top: none;
+    white-space: normal;
+
+    &:first-child {
+      padding-top: 20px;
+    }
+
+    /* Don't show teal underline in the panel — border-bottom is the separator */
+    &.active {
+      border-bottom-color: $border;
+    }
+  }
+
+  .lang-toggle {
+    margin-left: 0;
+    margin-top: 18px;
+    padding-top: 2px;
+  }
+
+  /* Hamburger button */
+  .nav-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    margin-right: -8px; /* optical alignment with edge */
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: $text-main;
+    flex-shrink: 0;
+
+    &:focus { outline: none; }
+
+    .nav-toggle__icon--close { display: none; }
+    .nav-toggle__icon--open  { display: block; }
+  }
+
+  /* Swap icons when menu is open */
+  .masthead.nav-open .nav-toggle {
+    .nav-toggle__icon--open  { display: none; }
+    .nav-toggle__icon--close { display: block; }
+  }
+}

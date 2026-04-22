@@ -13,7 +13,7 @@
 <header class="masthead" id="site-masthead" role="banner">
   <a href="{{ base_path }}/" class="site-title">Juho Junttila</a>
 
-  <nav class="masthead__nav" role="navigation" aria-label="Main navigation">
+  <nav class="masthead__nav" id="site-nav" role="navigation" aria-label="Main navigation">
     {% for link in nav_links %}
       {% if link.url contains 'http' %}
         {% assign link_url = link.url %}
@@ -39,15 +39,56 @@
       {% endif %}
     </div>
   </nav>
+
+  <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Toggle navigation">
+    <svg class="nav-toggle__icon nav-toggle__icon--open" width="22" height="22" viewBox="0 0 22 22" fill="none" aria-hidden="true">
+      <rect x="2" y="4.6" width="18" height="1.8" rx="0.9" fill="currentColor"/>
+      <rect x="2" y="10.1" width="18" height="1.8" rx="0.9" fill="currentColor"/>
+      <rect x="2" y="15.6" width="18" height="1.8" rx="0.9" fill="currentColor"/>
+    </svg>
+    <svg class="nav-toggle__icon nav-toggle__icon--close" width="22" height="22" viewBox="0 0 22 22" fill="none" aria-hidden="true">
+      <line x1="4" y1="4" x2="18" y2="18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+      <line x1="18" y1="4" x2="4" y2="18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+    </svg>
+  </button>
 </header>
 
 <script>
 (function() {
-  var nav = document.getElementById('site-masthead');
+  var masthead = document.getElementById('site-masthead');
+  var toggle   = document.getElementById('nav-toggle');
+  var menu     = document.getElementById('site-nav');
+
   function onScroll() {
-    nav.classList.toggle('scrolled', window.scrollY > 8);
+    masthead.classList.toggle('scrolled', window.scrollY > 8);
   }
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
+
+  if (toggle && menu) {
+    function openMenu() {
+      menu.classList.add('is-open');
+      toggle.setAttribute('aria-expanded', 'true');
+      masthead.classList.add('nav-open');
+    }
+    function closeMenu() {
+      menu.classList.remove('is-open');
+      toggle.setAttribute('aria-expanded', 'false');
+      masthead.classList.remove('nav-open');
+    }
+
+    toggle.addEventListener('click', function() {
+      menu.classList.contains('is-open') ? closeMenu() : openMenu();
+    });
+
+    document.addEventListener('click', function(e) {
+      if (!masthead.contains(e.target)) closeMenu();
+    });
+
+    var navLinks = menu.querySelectorAll('.masthead__nav-link');
+    for (var i = 0; i < navLinks.length; i++) {
+      navLinks[i].addEventListener('click', closeMenu);
+    }
+  }
 })();
 </script>
