@@ -160,7 +160,7 @@ en_url: /publications/
     <a href="https://www.helsinkigse.fi/media/pages/discussion-papers/discussion-paper-50/c5b0fd436a-1764677074/dp50.pdf" target="_blank" rel="noopener">Työpaperi (englanniksi)</a>
     <a href="https://osf.io/qyfrz" target="_blank" rel="noopener">Analyysisuunnitelma (ennen aineistonkeruuta)</a>
     <a href="https://www.doria.fi/handle/10024/193573" target="_blank" rel="noopener">Raportti</a>
-    <span class="paper-media">In the media: <a href="https://www.hs.fi/politiikka/art-2000011662855.html" target="_blank" rel="noopener">Helsingin Sanomat</a>, <a href="https://yle.fi/a/74-20197188" target="_blank" rel="noopener">Yle</a>, <a href="https://yle.fi/a/7-10089196" target="_blank" rel="noopener">Svenska YLE</a>, <a href="https://www.opettaja.fi/tyossa/turvaverkko-kantaa-ja-kiristaa/" target="_blank" rel="noopener">Opettaja</a></span>
+    <span class="paper-media"> Mediassa: <a href="https://www.hs.fi/politiikka/art-2000011662855.html" target="_blank" rel="noopener">Helsingin Sanomat</a>, <a href="https://yle.fi/a/74-20197188" target="_blank" rel="noopener">Yle</a>, <a href="https://yle.fi/a/7-10089196" target="_blank" rel="noopener">Svenska YLE</a>, <a href="https://www.opettaja.fi/tyossa/turvaverkko-kantaa-ja-kiristaa/" target="_blank" rel="noopener">Opettaja</a></span>
   </div>
   <button class="abstract-toggle" onclick="toggleAbstract('CSL', this.previousElementSibling.previousElementSibling)">
     <span class="abstract-arrow" id="arrow-CSL">&#9658;</span> Abstract
