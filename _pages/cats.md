@@ -101,11 +101,15 @@ redirect_from:
 <h1 class="cats-heading">My Cats</h1>
 
 <div class="cat-grid" id="catGrid">
-  <div class="cat-cell" onclick="openLightbox(0)"><img src="/images/kissat1.jpeg" alt="Cat 1"></div>
-  <div class="cat-cell" onclick="openLightbox(1)"><img src="/images/kissat2.jpeg" alt="Cat 2"></div>
-  <div class="cat-cell" onclick="openLightbox(2)"><img src="/images/kissat5.JPG" alt="Cat 3"></div>
-  <div class="cat-cell" onclick="openLightbox(3)"><img src="/images/kissat6.jpeg" alt="Cat 4"></div>
-  <div class="cat-cell" onclick="openLightbox(4)"><img src="/images/kissat7.jpeg" alt="Cat 5"></div>
+  <div class="cat-cell" onclick="openLightbox(0)"><img src="/images/kissat1.jpeg" loading="lazy" decoding="async" alt="Cat 1"></div>
+  <div class="cat-cell" onclick="openLightbox(1)"><img src="/images/kissat2.jpeg" loading="lazy" decoding="async" alt="Cat 2"></div>
+  <div class="cat-cell" onclick="openLightbox(2)"><img src="/images/kissat5.JPG" loading="lazy" decoding="async" alt="Cat 3"></div>
+  <div class="cat-cell" onclick="openLightbox(3)"><img src="/images/kissat6.jpeg" loading="lazy" decoding="async" alt="Cat 4"></div>
+  <div class="cat-cell" onclick="openLightbox(4)"><img src="/images/kissat7.jpeg" loading="lazy" decoding="async" alt="Cat 5"></div>
+  <div class="cat-cell" onclick="openLightbox(5)"><img src="/images/kissat8.jpeg" loading="lazy" decoding="async" alt="Cat 6"></div>
+  <div class="cat-cell" onclick="openLightbox(6)"><img src="/images/kissat9.jpeg" loading="lazy" decoding="async" alt="Cat 7"></div>
+  <div class="cat-cell" onclick="openLightbox(7)"><img src="/images/kissat10.jpeg" loading="lazy" decoding="async" alt="Cat 8"></div>
+  <div class="cat-cell" onclick="openLightbox(8)"><img src="/images/kissat11.jpeg" loading="lazy" decoding="async" alt="Cat 9"></div>
 </div>
 
 <div class="cat-lightbox" id="catLightbox" onclick="closeLightbox(event)">
@@ -120,7 +124,11 @@ var CAT_IMGS = [
   '/images/kissat2.jpeg',
   '/images/kissat5.JPG',
   '/images/kissat6.jpeg',
-  '/images/kissat7.jpeg'
+  '/images/kissat7.jpeg',
+  '/images/kissat8.jpeg',
+  '/images/kissat9.jpeg',
+  '/images/kissat10.jpeg',
+  '/images/kissat11.jpeg'
 ];
 var currentIdx = 0;
 
