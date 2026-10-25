@@ -140,6 +140,7 @@ redirect_from:
 <div class="results-links">
   <a href="http://www.divecalc.net/divecalc/results/#diver=2443" target="_blank" rel="noopener">Kotimaisia tuloksia</a>
   <a href="https://diverecorder.co.uk/meetexplorer/diverevents.php?dref=2765" target="_blank" rel="noopener">Kansainvälisiä tuloksia</a>
+  <a href="/fi/sports/kojelauta/" target="_blank" rel="noopener nofollow">Kojelauta</a>
 </div>
 
 <hr class="sports-divider">

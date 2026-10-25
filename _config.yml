@@ -269,6 +269,11 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # Diving age-curve explorer: reachable only via the link on /fi/sports/
+  - scope:
+      path: "fi/sports/kojelauta"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
