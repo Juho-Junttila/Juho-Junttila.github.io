@@ -138,7 +138,7 @@ fi_url: /fi/publications/
   </div>
   <div class="paper-authors">
     with <a href="https://sites.google.com/view/aliisakoivisto" target="_blank" rel="noopener">Aliisa Koivisto</a> and <a href="https://www.annikanivala.com/" target="_blank" rel="noopener">Annika Nivala</a>
-  </div>
+  <div class="paper-authors">
   (Accepted at Journal of Public Economics)
   </div>
   <div class="paper-links">
