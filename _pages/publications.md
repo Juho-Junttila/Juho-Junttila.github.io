@@ -164,6 +164,9 @@ fi_url: /fi/publications/
     <a href="https://www.doria.fi/handle/10024/193573" target="_blank" rel="noopener">Policy Report</a>
         <span class="paper-media">In the media: <a href="https://www.hs.fi/politiikka/art-2000011662855.html" target="_blank" rel="noopener">Helsingin Sanomat</a>, <a href="https://yle.fi/a/74-20197188" target="_blank" rel="noopener">Yle</a>, <a href="https://yle.fi/a/7-10089196" target="_blank" rel="noopener">Svenska YLE</a>, <a href="https://www.opettaja.fi/tyossa/turvaverkko-kantaa-ja-kiristaa/" target="_blank" rel="noopener">Opettaja</a>, <a href="https://labore.fi/t&amp;y/oliko-oppivelvollisuuden-nosto-rahanhukkaa-vai-koppi-nuorista/" target="_blank" rel="noopener">Talous &amp; Yhteiskunta</a></span>
   </div>
+  <div class="paper-authors">
+  (Updated paper with 2026 data is available upon request)
+  </div>
   <button class="abstract-toggle" onclick="toggleAbstract('CSL', this.previousElementSibling.previousElementSibling)">
     <span class="abstract-arrow" id="arrow-CSL">&#9658;</span> Abstract
   </button>
