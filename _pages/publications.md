@@ -139,6 +139,8 @@ fi_url: /fi/publications/
   <div class="paper-authors">
     with <a href="https://sites.google.com/view/aliisakoivisto" target="_blank" rel="noopener">Aliisa Koivisto</a> and <a href="https://www.annikanivala.com/" target="_blank" rel="noopener">Annika Nivala</a>
   </div>
+  (Accepted at Journal of Public Economics)
+  </div>
   <div class="paper-links">
     <a href="https://verotutkimus.fi/verotutkimus/wp-content/uploads/2026/02/FIT-WP43-Junttila-Koivisto-Nivala-090226.pdf" target="_blank" rel="noopener">Working Paper</a>
   </div>
